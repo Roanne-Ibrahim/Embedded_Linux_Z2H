@@ -9,4 +9,5 @@ Phonebook using bash script on linux
   - Delete only one contact name, with "-d"
   
  2.Make the database inside the script itself (meaning the script would edit itself while running), that would make my script highly portable.
+ 
  3.A single name can have multiple phone numbers within the same database entry.
