@@ -1,6 +1,7 @@
 # Embedded_Linux_Z2H
 Phonebook using bash script on linux
 -------------------------------------
+
 1. The PhoneBook available options are:
   - Insert new contact name and number, with the option "-i"
   - View all saved contacts details, with the option "-v"
